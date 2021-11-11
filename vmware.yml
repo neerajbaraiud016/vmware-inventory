@@ -1,0 +1,5 @@
+---
+plugin: community.vmware.vmware_host_inventory
+strict: False
+validate_certs: False
+with_tags: True
